@@ -1,2 +1,11 @@
 # Technical-discussion
-This is an Hands on practice on sharing ides around communication 
+This is a Hands-on  practice of sharing ideas around communication 
+
+
+
+## This is a second heading 
+
+
+* one 
+* Two 
+* three
